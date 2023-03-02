@@ -50,7 +50,7 @@
   <hibernate.version>5.6.3.Final</hibernate.version>
   <jackson-databind.version>2.13.4.2</jackson-databind.version>
   <jackson-dataformat-yaml.version>2.13.4</jackson-dataformat-yaml.version>
-  <jackson.version>2.13.4</jackson.version>
+  <jackson.version>2.14.2</jackson.version>
   <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
   <jacoco.version>0.8.8</jacoco.version>
   <jakarta.json.bind-api.version>1.0.2</jakarta.json.bind-api.version>
