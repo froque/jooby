@@ -57,7 +57,7 @@
   <jakarta.ws.rs-api.version>2.1.6</jakarta.ws.rs-api.version>
   <jasypt.version>1.9.3</jasypt.version>
   <javax.inject.version>1</javax.inject.version>
-  <jboss-modules.version>1.11.0.Final</jboss-modules.version>
+  <jboss-modules.version>2.1.0.Final</jboss-modules.version>
   <jdbi.version>3.32.0</jdbi.version>
   <jetty.version>9.4.48.v20220622</jetty.version>
   <jfiglet.version>0.0.9</jfiglet.version>
